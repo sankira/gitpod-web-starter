@@ -5,7 +5,7 @@
     "serve.json": true,
   },
   "editor.tabSize": 2,
-  "files.autoSave": "off",
+  "files.autoSave": "afterDelay",
   "editor.formatOnSave": true,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
